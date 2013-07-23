@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.swp
 file.html
 test.html
@@ -5,3 +6,26 @@ test.html
 *~
 
 node_module/
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+
+node_modules/
+*.pem
+#*#
+*#
+#*
+#~
+>>>>>>> c3a7210a24c715e981010041295ec5bd893839d4
