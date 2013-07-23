@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 *.swp
 file.html
 test.html
 #*#
 *~
 
-node_module/
-=======
 lib-cov
 *.seed
 *.log
@@ -22,10 +19,10 @@ results
 
 npm-debug.log
 
-node_modules/
+node_modules/*
 *.pem
 #*#
 *#
 #*
 #~
->>>>>>> c3a7210a24c715e981010041295ec5bd893839d4
+
