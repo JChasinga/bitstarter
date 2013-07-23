@@ -1,0 +1,7 @@
+*.swp
+file.html
+test.html
+#*#
+*~
+
+node_module/
